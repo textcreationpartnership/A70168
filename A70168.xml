@@ -1,0 +1,360 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good counsel and advice unto the magistrates and people of Norwich with a brief relation of some of the sufferings of the people of God, called, Quakers in the said city.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70168</idno>
+            <idno type="STC">Wing G685</idno>
+            <idno type="STC">ESTC R215773</idno>
+            <idno type="EEBO-CITATION">99827546</idno>
+            <idno type="PROQUEST">99827546</idno>
+            <idno type="VID">31967</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70168)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31967)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1848:06; 2209:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good counsel and advice unto the magistrates and people of Norwich with a brief relation of some of the sufferings of the people of God, called, Quakers in the said city.</title>
+                  <author>Gibson, William, 1629-1684. aut</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p.4: William Gibson [and 8 others].</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library (reel 1848) and the Swarthmore College, Pennsylvania (reel 2209).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  England --  Norwich --  Early works to 1800.</term>
+               <term>Norwich (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31967:1"/>
+            <p>Good Counſel
+AND
+ADVICE
+UNTO THE
+Magiſtrates and People
+OF
+NORWICH:
+With a brief Relation of ſome of the Suf<g ref="char:EOLhyphen"/>ferings
+of the People of God, called,
+QUAKERS
+In the ſaid CITY.</p>
+            <p>Printed in the Year, 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:31967:2"/>
+            <pb n="3" facs="tcp:31967:2" rendition="simple:additions"/>
+            <head>TO THE
+Magiſtrates and People of
+NORWICH,</head>
+            <p>
+               <hi>A</hi> Relation of your Proceedings againſt your peaceable
+Neighbours called <hi>Quakers,</hi> coming to our View, we,
+in the pure Fear of Almighty God ſeriouſly read and
+conſidered the ſame; and we find them ſo contrary to
+the Command of God and our Lord Jeſus Chriſt, and the Do<g ref="char:EOLhyphen"/>ctrine
+and Practice of the holy Apoſtles and primitive <hi>Chriſtians,</hi>
+That we are really Sorry that you ſhould be found in ſuch a Work,
+who do profeſs Chriſt Jeſus to be your Lord, &amp; the holy Command,
+given by him, mentioned in the holy Scriptures to be your Rule
+and God to be your Father, &amp;c.</p>
+            <p>
+               <hi>We deſire you in the Tender Love of God, ſeriouſly to conſider
+how contrary theſe your proceedings are to the Command of Al<g ref="char:EOLhyphen"/>mighty
+God, whoſe expreſs Command is,</hi> Thou ſhalt love thy
+Neighbour as thy ſelf, thou ſhalt not bear falſe Witneſs againſt
+him, thou ſhalt not covet his Ox nor his Aſs, nor any thing
+that is his, <hi>&amp;c.</hi>
+            </p>
+            <p>And alſo conſider how contrary theſe your proceedings are to
+the Command of our Lord and Saviour Jeſus Chriſt, whoſe <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>alterable
+Command is to all Chriſtians <hi>to love one another,</hi> and
+not only ſo, but alſo <hi>to love their Enemies, and to do good un<g ref="char:EOLhyphen"/>to
+them,</hi> &amp;c.</p>
+            <p>And we do deſire you to take notice that Chriſt Jeſus hath left
+no Command not Example for you nor any who do profeſs to be
+his Servants to perſecute, ſpoyl Goods and impriſon about Faith,
+Worſhip and Obedience to him; for Chriſt and his Apoſtles did
+never perſecute about Religion; for True Faith is the Gift of God
+(as the Holy Scripture ſaith) and the Holy Apoſtle ſaith, <hi>That
+which is not of Faith is</hi> Sin, and alſo ſaith, <hi>let every man be
+fully perſwaded in his own Heart,</hi> &amp;c.</p>
+            <p>
+               <pb n="4" facs="tcp:31967:3"/>
+               <hi>And we do deſire you ſeriouſly to conſider and obey the Com<g ref="char:EOLhyphen"/>mand
+of Chriſt, who ſaith,</hi> Whatſoever ye would that men
+ſhould do unto you, do ye even ſo unto them.</p>
+            <p>This Rule of doing as you would be done by, uſeth to be highly
+commended in Words in <hi>England,</hi> and by many called the Golden
+Rule: We do from the Bottom of our Hearts deſire that the Ma<g ref="char:EOLhyphen"/>giſtrates,
+Teachers and People of <hi>England</hi> and all Nations, may
+come to the Practice of this Golden Rule.</p>
+            <p>We do alſo deſire you to conſider that God almighty is a pure
+Fountain of Love (as the Holy Apoſtle ſaith) and he alſo ſaith,
+<hi>They who dwell in God, they dwell in Love:</hi> Love in Man<g ref="char:EOLhyphen"/>kind
+one unto another is the fulfilling of the Law of God in them;
+<hi>Love</hi> (ſaith the Holy Apoſtle) <hi>thinketh no Evil;</hi> it doth not
+behave it ſelf unſeemly or uncomely; but your ſpoiling the Goods
+of your peaceable Neighbours, and impriſoning ſome of them (on<g ref="char:EOLhyphen"/>ly
+for waiting upon God, and for worſhipping him as he doth teach
+and command them by his good Spirit which he hath promiſed,
+&amp; given to lead his People into all Truth) is certainly highly
+diſpleaſing unto Almighty God, and of an ill Savour and uncome<g ref="char:EOLhyphen"/>ly
+in the Sight of all Tender-hearted People, who come to hear of
+your Harſh and <g ref="char:V">Ʋ</g>nchriſtian Proceedings againſt your peaceable
+and induſtrious Neighbours, and therefore in Tender Love to
+your Immortal Souls we do deſire you to deſiſt from ſuch Procee<g ref="char:EOLhyphen"/>dings;
+for verily, if theſe proceedings be not unfeignedly repen<g ref="char:EOLhyphen"/>ted
+of, and forſaken, they will certainly bring the Wrath of God
+upon you. Oh conſider ſeriouſly the time haſtens, wherein you
+muſt give an Account to Almighty God for your Deeds done in
+the Body, and muſt receive a Reward accordingly; to him we
+do leave you, and truly deſire that you may be found in thoſe things
+which may pleaſe him, that his Bleſſing may be upon you in this
+World and that which is to come,</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>John Oſgood,</item>
+                     <item>William Mead,</item>
+                     <item>William Shewen,</item>
+                     <item>Henry Snooke,</item>
+                     <item>Gilbert Latie,</item>
+                     <item>Arthur Cooke.</item>
+                     <item>William Gibſon,</item>
+                     <item>James Claypool,</item>
+                     <item>Philip Ford.</item>
+                  </list>
+               </signed>
+               <dateline>London, <date>the 11th of
+the 8th Moneth,
+1676.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="treatise">
+            <pb n="5" facs="tcp:31967:3"/>
+            <head>The Relations of the Sufferings of the People of
+God called Quakers in Norwich are as follow.</head>
+            <p>ON the 1ſt of the Moneth called <hi>March</hi> laſt, <hi>John Sha<g ref="char:EOLhyphen"/>pen</hi>
+jun. for being at a peaceable Meeting to wait upon
+God, in <hi>Norwich,</hi> the 27th of the 12th Moneth laſt, had taken
+from him, by one <hi>Beak</hi> and <hi>John Stone</hi> Conſtables, by War<g ref="char:EOLhyphen"/>rant
+from <hi>John Manſer</hi> then Mayor, <hi>John Tennyſon</hi> &amp; <hi>Charles
+Tennyſon</hi> Informers, 5 pair of Shoes called Flyers and a Cake
+of Tallow.</p>
+            <p>Ditto <hi>John Fedman,</hi> for being at the ſame Meeting, had
+taken from him, by <hi>William Poole</hi> Conſtable, Goods worth
+8s. 6d.</p>
+            <p>
+               <hi>John Dilerance,</hi> for the ſame Cauſe, had Goods taken worth
+10 s. for a Fine of 5s. by <hi>Edward Trull</hi> Conſtable, <hi>William
+Cheſſen</hi> Overſeer, and <hi>Tho. Leman</hi> Church-warden.</p>
+            <p>Ditto, <hi>Anthony Alexander,</hi> for being at the ſame Meeting,
+was fined for himſelf, and the third part of 20 l. for the Houſe,
+and had as many Splightings or Hides taken out of his Fats as
+were worth 8 l. 17s.</p>
+            <p>
+               <hi>Note, Eraſmus Cooper</hi> entering <hi>Anthony</hi>'s Houſe, in a
+ſuddain ſurprizing manner, ſaid to the Man's Wife, who was
+big with Child, <hi>He came to ſeize all ſhe had for the King:</hi> She
+ſaid, <hi>That was hard, to ſeize all for 7 l. Fine:</hi> He replyed, <hi>He
+would not leave her a Bed to lie on:</hi> And he went to the Shop
+Door, and finding it lockt, he fetcht a Pickax, and broak it o<g ref="char:EOLhyphen"/>pen,
+and he and the reſt of his Companions were ſo Cruel and
+<g ref="char:V">Ʋ</g>nneighbourly, that it cauſed Tears to trickle down the Checks
+of ſome of the Neighbours, who beheld them; the Names of his
+Aſſiſtants are <hi>Nic. Becket</hi> Conſtable, <hi>Robert Clarke</hi> Warden,
+<hi>Edward Cullier</hi> Overſeer, <hi>Edw. Makins</hi> and <hi>Richard Pye.</hi>
+            </p>
+            <p>In the third Moneth laſt the ſame Officers accompanyed with
+<pb n="6" facs="tcp:31967:4"/>
+two other (<hi>viz.) Iſaac Wolfill</hi> and <hi>Nath. Ponder</hi> Overſeers,
+went into the Yard of the ſaid <hi>Anthony Alexander</hi> privately
+by the Crick Side in a Boat, with a Warrant from <hi>John Manſer</hi>
+Mayor and <hi>Francis Bacon</hi> Steward, for the third Part of 20 l.
+being a Fine impoſed on him for the Cauſe aforeſaid, for which
+they took ſeven Dozen of Calf-Skins worth 8 <hi>l. 8 s.</hi> and com<g ref="char:EOLhyphen"/>manded
+his Man to aſſiſt them to pull the Ware out of the
+Fatts, which he refuſing to do, they gave him abuſive Words;
+<hi>Anthony</hi> ſaid, <hi>It was unreaſonable to require the Man to aſſiſt
+in taking his Maſter's Goods from him; Robert Clarke</hi> anſwered,
+<hi>They were their Goods.</hi>
+            </p>
+            <p>
+               <hi>Robert Hutchiſon</hi> on the 4th of the 5th Moneth laſt, for be<g ref="char:EOLhyphen"/>ing
+at a Meeting, had Houſhold-Goods taken away to the Va<g ref="char:EOLhyphen"/>lue
+of above 7 <hi>s.</hi> by Warrant from <hi>Tho. Checkering</hi> Mayor,
+by <hi>Richard Lusbrooke</hi> and <hi>John Allen</hi> Conſtables, and <hi>John
+Freeman</hi> Warden, and <hi>Chriſtopher Haſtead</hi> Overſeer.</p>
+            <p>
+               <hi>Samuel Duncon</hi> in the 5th Moneth laſt had taken from him
+for meeting to worſhip God, Houſhold-Goods and Wares to
+the Value of 42 <hi>l. 19 s. 5 d.</hi> by Warrants ſigned by <hi>Francis
+Bacon</hi> and <hi>John Manſer</hi> Mayor; and <hi>John Crow</hi> and <hi>Gamaliel
+Sugden</hi> Wardens, <hi>Tho. Southgate</hi> Jun. <hi>Edward Mayhew</hi> O<g ref="char:EOLhyphen"/>verſeers,
+<hi>William Pool</hi> pretended Conſtable, <hi>Charles Tenny<g ref="char:EOLhyphen"/>ſon</hi>
+Informer, <hi>Tho. Giddens</hi> Carter, <hi>Tho. Woods, John Brown</hi>
+and <hi>Robert Phebee,</hi> Helpers together with the Hangman.</p>
+            <p>
+               <hi>Note,</hi> The aforeſaid Officers took Poſſeſſion of <hi>Samuel Dun<g ref="char:EOLhyphen"/>con</hi>'s
+Houſe, and there kept Night and Day, from ſeventh Day
+in the Afternoon till the ſecond Day in the Afternoon, loading a<g ref="char:EOLhyphen"/>way
+his Goods, as if they had been their own, and breaking up
+Locks at their Pleaſure, keeping <hi>Samuel</hi>'s Wife, who was big
+with Child, as a Priſoner in her own Houſe the firſt Night, not
+ſuffering her to ſpeak with any ſo much as at the Door, nor any
+to come to her, till ſome of the Magiſtrates being ſpoken to abate
+it (for Shame and Cry of the People) ordered it.</p>
+            <p>And the Reader may take Notice of the Inſolency and Vile<g ref="char:EOLhyphen"/>neſs
+of one of the aforeſaid Informers, who boaſtingly ſaid,
+<hi>He would make the Mayor wait upon him as often as he would
+at his Pleaſure:</hi> Oh a ſad Age, that ſuch ungodly, vile, idle,
+<pb n="7" facs="tcp:31967:4"/>
+prophane Men ſhould be encouraged thus to vaunt themſelves
+againſt, or rather over the Magiſtrates of this Nation, whoſe
+Sword in Juſtice ought to be a Terror unto them, they being
+Evil-doers in the Sight of the juſt God, who hates Oppreſſion,
+and in the Sight of juſt Men; and it's to be lamented, that un<g ref="char:EOLhyphen"/>der.
+Officers are forced to proceed in making Havock of their
+peaceable Neighbours Goods againſt their Conſciences, to ſa<g ref="char:EOLhyphen"/>tisfie
+thoſe greedy Informers; as witneſs the afore-ſaid <hi>Pool</hi> Con<g ref="char:EOLhyphen"/>ſtable,
+when he went with the Informer to the Meeting in <hi>Nor<g ref="char:EOLhyphen"/>wich</hi>
+the 16th of the 5th Month, &amp; hearing the Truth declared, he
+cryed with Tears in his Eyes, <hi>What ſhall I do? I know the Pow<g ref="char:EOLhyphen"/>er
+of God is among you,</hi> and told the Informer, <hi>That if there were
+a Curſe hung over any People upon the Earth, it was over the In<g ref="char:EOLhyphen"/>formers,</hi>
+and ſaid to <hi>S. D.</hi> afterwards, <hi>That he confeſt he had
+ſinned againſt his Conſcience in doing what he did.</hi>
+            </p>
+            <p>And Note further, that ſince the taking of the ſaid <hi>Samuel
+Duncon</hi>'s Goods, <hi>John Tennyſon</hi> one of the ſaid Informers is laid
+up in Priſon upon an Execution for Debt; and he hath confeſt he
+never proſpered ſince he took in Hand that Work, and ſaid, he
+knew not what to do, and ſaid, if he were at Liberty, he would
+never meddle more: So People may ſee how badly his ill gotten
+Goods proſper with him.</p>
+            <p>
+               <hi>Note, John Crow</hi> would not ſuffer an Account to be taken of
+the Goods he and the reſt of them took away of <hi>Samuel Duncon</hi>'s,
+but when a Man was taking an Account, he ſnatched it from him,
+and put it in his Pocket; and the ſaid <hi>Crow</hi> finding <hi>Samuel Dun<g ref="char:EOLhyphen"/>con</hi>'s
+Shop ſet open the ſecond Day in the Morning, ſhut it up
+again himſelf; thus acting like Plunderers in Time of War, which
+is a Shame to Magiſtrates, that they ſhould ſuffer ſuch Things in
+Times of Peace.</p>
+            <p>Since the other Account, <hi>Nich. Becket</hi> Conſtable, <hi>Robert
+Clarke</hi> and <hi>Robert Sellers</hi> Wardens, <hi>Nathanael Ponder</hi> Over<g ref="char:EOLhyphen"/>ſeer,
+by Warrant from <hi>Tho. Chickering</hi> Mayor (for a Fine of
+10 Pound impoſed upon <hi>Anthony Alexander</hi> for the Meeting<g ref="char:EOLhyphen"/>houſe)
+did with the Help of <hi>Andrew Cooper</hi> and <hi>William Dray<g ref="char:EOLhyphen"/>ton,</hi>
+carry away from the ſaid <hi>Anthony</hi> fifteen Splitings, worth
+9 <hi>l. 15 s.</hi> four Horſe-Hides, worth 1 <hi>l.</hi> 10. and eleaven
+<pb n="8" facs="tcp:31967:5"/>
+Couple of Wombs, worth 14 <hi>s. 8 d.</hi> in all to the Value of
+11 <hi>l. 19 s. 8 d.</hi>
+            </p>
+            <p>Some Part of the Goods that were taken away were bought by
+theſe Perſons following.</p>
+            <p>
+               <hi>Mary Cumber</hi> of <hi>Gregory</hi>'s Pariſh bought ſix Cuſhions,
+which coſt 3 <hi>s. 6 d.</hi> a piece, for 3 <hi>s. 6 d.</hi> the Widdow <hi>Crane</hi>
+of <hi>Giles</hi>'s, and <hi>Edward Cook</hi>'s Wife of the ſame, and one <hi>Ea<g ref="char:EOLhyphen"/>ton</hi>
+a Cobler's Wife in <hi>Gregory</hi>'s Pariſh, and one <hi>Bernard</hi> a
+School-maſter bought ſeveral of the ſaid Goods.</p>
+            <p>For the Oppreſſion of the Poor, for the Sighing of the Needy, now
+will I ariſe (ſaith the Lord) I will ſet him in Safety from him
+that puffeth at him, <hi>Pſal.</hi> 12. 5.</p>
+            <p>For the Needy ſhall not alway be forgotten, the Expectation of the
+Poor ſhall not periſh forever.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:31967:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
